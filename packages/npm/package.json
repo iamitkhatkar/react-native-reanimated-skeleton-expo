@@ -4,7 +4,7 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-linear-gradient": "*",
+    "expo-linear-gradient": "*",
     "react-native-reanimated": "*"
   },
   "react-native": "src/ReactNativeReanimatedSkeleton.ts",
