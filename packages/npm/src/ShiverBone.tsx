@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 import { View, StyleSheet } from 'react-native';
-import LinearGradient from 'react-native-linear-gradient';
+import { LinearGradient } from 'expo-linear-gradient';
 import Animated, {
   SharedValue,
   useAnimatedStyle,
